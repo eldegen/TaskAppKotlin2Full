@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskAppKotlin2</string>
+    <string name="add_item_text">Add item</string>
+    <string name="delete_item_text">Delete item</string>
+    <string name="edit_item_text">Edit item</string>
+    <string name="get_item_text">Get item</string>
+    <string name="get_list_text">Get list</string>
+    <string name="your_task_text">Your task</string>
+    <string name="count_text">Count</string>
+    <string name="redactor_toast">Your task field is empty</string>
+    <string name="put_the_news">Put the news</string>
+    <string name="todo">TODO</string>
+    <string name="save_text">Save text</string>
+</resources>
